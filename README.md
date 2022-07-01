@@ -1,2 +1,14 @@
 # Netflix-Clone
-A beautiful web application that feels completely like Netflix.
+A beautiful web React-Application that feels completely like Netflix.
+
+
+# چرا این پروژه رو نوشتم؟ و در این پروژه چه فیچر هایی استفاده شد؟
+
+
+انگیزه من از نوشتن این پروزه بهبود توانایی های خود در انجام یک پروژه کامل با استفاده از Functional Components بود؛ همچنین با نوشتن این پروژه به تسلط بهتری در استفاده از انواع Hook ها در React رسیدم، به طور مثال useContext,  useState, useEffect از این دست بودند که هر کدام در محل مناسب خود استفاده شدند.
+از دیگر موضوعاتی که در این پروه به کار رفت میتوان به Restfull API و Axios اشاره کرد که به وسیله وبسایت TMDB.com ممکن شد.
+همچنین ورژن 6 و جدید React-Router-Dom هم در این پروژه برای تغییر صفحات استفاده شد.
+برای استایل دهی این اولین بار بود که در یک پروژه واقعی از tailwind استفاده میکردم که در مقایسه با bootstrap قابلیت شخصی سازی بسیار بیشتر و به دلیل استفاده در html به جای css سرعت لود بسیار بالاتر و seo بهتری را ایجاد میکند.
+
+
+
